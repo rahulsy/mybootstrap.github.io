@@ -1,0 +1,32 @@
+ 1. grid system
+ 2. image
+	img-responsive
+	img-rounded
+	img-circle
+	img-thumbnail
+3. background color
+	bg-danger
+	bg-primary
+	bg-warning
+	bg-info
+	bg-success
+4. button
+	btn-primary
+	btn-warning
+	btn-sucees
+	btn-danger
+	btn-default
+5. well
+=============Today============
+form
+	form-group
+		form-control
+			input-sm
+			input-md
+			input-lg
+
+	
+		
+
+	
+ 
